@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathancodes10/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mathancodes10/Leet-Code-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
